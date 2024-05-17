@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D731&center=true&vCenter=true&random=false&width=435&lines=Front+End+Web+Developer](https://readme-typing-svg.demolab.com?font=Times&weight=700&size=24&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=MERN+Stack+Developer;React+Native+Developer)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D731&center=true&vCenter=true&random=false&width=435&lines=Front+End+Web+Developer](https://readme-typing-svg.demolab.com?font=Times&weight=700&size=24&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=MERN+Stack+Developer;React+Native+Developer" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">Hey there, I'm <a href="https://github.com/abubakarnangrii">Abu Bakar Siddique</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
