@@ -17,8 +17,8 @@
 
 ## What I'm Doing
 
-- 🔭 Working on Mern Stack
-- 🌱 Currently Learning React Native 
+- 🔭 Working on Frontend development using the React.js and Next.js
+- 🌱 Currently Learning React Native and Wordpress
 - 📫 How to contact me: <a href="https://linktr.ee/abubakarnangri"><button>Click Here</button></a>
 - 📫 My website: <a href="https://abubakar-siddiquee.netlify.app/"><button>Visit Website</button></a>
 
